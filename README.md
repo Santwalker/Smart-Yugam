@@ -115,12 +115,34 @@ smart-yugam-academy/
 
 ### Getting Started
 1. **Register**: Create a new account with your details
-2. **Browse Courses**: Explore available courses by category
-3. **Enroll**: Click "Enroll Now" on any course
-4. **Learn**: Watch videos sequentially and track progress
-5. **Assessment**: Complete the 30-question assignment
-6. **Certificate**: Download your certificate upon passing
+<img width="2553" height="1271" alt="Screenshot 2025-12-03 192558" src="https://github.com/user-attachments/assets/f9814388-4907-4c13-835b-e1d322b46f96" />
+<img width="2559" height="1272" alt="Screenshot 2025-12-03 192619" src="https://github.com/user-attachments/assets/abc0f5c7-d1da-42f3-ad6c-8bf2cdfcebce" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2. **Browse Courses**: Explore available courses by category
+<img width="1722" height="1205" alt="Screenshot 2025-12-03 192741" src="https://github.com/user-attachments/assets/db9ebb00-d01a-4136-ad08-b3d9b39dfc04" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. **Enroll**: Click "Enroll Now" on any course
+<img width="1749" height="1194" alt="Screenshot 2025-12-03 192811" src="https://github.com/user-attachments/assets/fe7feddd-4f04-4e26-a38a-76a098d45fac" />
+<img width="1086" height="602" alt="Screenshot 2025-12-03 192843" src="https://github.com/user-attachments/assets/f93bdfb2-8828-4bce-a892-2ac0d129726b" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. **Learn**: Watch videos sequentially and track progress
+<img width="1340" height="987" alt="Screenshot 2025-12-03 193744" src="https://github.com/user-attachments/assets/de92d80b-5912-4209-8462-488ef4c35a7f" />
+<img width="1430" height="1005" alt="Screenshot 2025-12-03 193816" src="https://github.com/user-attachments/assets/44f2f1f9-d3dd-43b9-92c8-d72ddd385def" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. **Assessment**: Complete the 30-question assignment
+<img width="1354" height="1040" alt="Screenshot 2025-12-03 192925" src="https://github.com/user-attachments/assets/30c392b9-5c0b-4f4e-82ed-e645723b0f52" />
+<img width="1346" height="1086" alt="Screenshot 2025-12-03 194733" src="https://github.com/user-attachments/assets/ac926b4a-dad9-49c8-b425-43c820892653" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. **Certificate**: Download your certificate upon passing
+<img width="1373" height="922" alt="Screenshot 2025-12-03 194800" src="https://github.com/user-attachments/assets/1c24285b-9844-4510-b6c6-acfe86989697" />
+<img width="1568" height="1196" alt="Screenshot 2025-12-03 194823" src="https://github.com/user-attachments/assets/377d5919-3efa-4cbe-baf9-3b8941310fe5" />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Course Flow
 ```
 Browse Courses → Enroll → Watch Videos → Complete Assignment → Get Certificate
