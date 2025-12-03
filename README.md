@@ -143,6 +143,9 @@ smart-yugam-academy/
 <img width="1373" height="922" alt="Screenshot 2025-12-03 194800" src="https://github.com/user-attachments/assets/1c24285b-9844-4510-b6c6-acfe86989697" />
 <img width="1568" height="1196" alt="Screenshot 2025-12-03 194823" src="https://github.com/user-attachments/assets/377d5919-3efa-4cbe-baf9-3b8941310fe5" />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✌️✌️✌️✌️✌️
+
 ### Course Flow
 ```
 Browse Courses → Enroll → Watch Videos → Complete Assignment → Get Certificate
